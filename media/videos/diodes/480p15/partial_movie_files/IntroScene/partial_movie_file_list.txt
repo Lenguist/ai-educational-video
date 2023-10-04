@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/4266129954_4282106657_223132457.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_345352296_804957033.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_2752512514_2737747893.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_345352296_3547520947.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_3551710185_3828168139.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_345352296_2812623041.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_2723471014_2196732428.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_3073779459_3624914475.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/IntroScene/1442284246_2497510743_2880106842.mp4'

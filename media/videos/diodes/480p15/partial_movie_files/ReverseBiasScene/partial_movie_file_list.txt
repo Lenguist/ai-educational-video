@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/ReverseBiasScene/4266129954_546620304_223132457.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/ReverseBiasScene/1442284246_4175243964_3418489216.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/ReverseBiasScene/1442284246_1157451042_3152000546.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/ReverseBiasScene/1442284246_3997622720_2482439268.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/ReverseBiasScene/1442284246_3073779459_3602991817.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/ReverseBiasScene/1442284246_3838986699_171890812.mp4'

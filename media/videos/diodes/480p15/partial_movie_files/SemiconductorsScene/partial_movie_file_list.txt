@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/SemiconductorsScene/4266129954_124417245_223132457.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/SemiconductorsScene/1442284246_3357186818_708976203.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/SemiconductorsScene/1442284246_1893961792_369728818.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/SemiconductorsScene/1442284246_1208983945_3025346043.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/SemiconductorsScene/1442284246_3073779459_1408528233.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/SemiconductorsScene/1442284246_3849178577_2751599545.mp4'

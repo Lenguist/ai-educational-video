@@ -1,0 +1,5 @@
+file 'media/videos/dot_product_explanation/480p15/Intro.mp4'
+file 'media/videos/dot_product_explanation/480p15/Definition.mp4'
+file 'media/videos/dot_product_explanation/480p15/Formula.mp4'
+file 'media/videos/dot_product_explanation/480p15/GeometricInterpretation.mp4'
+file 'media/videos/dot_product_explanation/480p15/Conclusion.mp4'

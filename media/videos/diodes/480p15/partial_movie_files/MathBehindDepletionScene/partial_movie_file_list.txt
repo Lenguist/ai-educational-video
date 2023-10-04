@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/MathBehindDepletionScene/4266129954_3040241376_223132457.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/MathBehindDepletionScene/1442284246_123788652_1110079138.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/MathBehindDepletionScene/1442284246_310657489_3685348813.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/MathBehindDepletionScene/1442284246_3073779459_3437987682.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/diodes/480p15/partial_movie_files/MathBehindDepletionScene/1442284246_2582884747_783324942.mp4'

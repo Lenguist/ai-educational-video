@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/dot_product_explanation/480p15/partial_movie_files/Definition/4266129954_683065307_223132457.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/dot_product_explanation/480p15/partial_movie_files/Definition/1442284246_190800790_721832011.mp4'
+file 'file:/Users/mbondarenko/Desktop/ai-educational-video/media/videos/dot_product_explanation/480p15/partial_movie_files/Definition/1442284246_1414704679_2977274518.mp4'
